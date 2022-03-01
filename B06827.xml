@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>It is a noyse of terror, to heare the guns like thunder,</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600-1699?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06827</idno>
+            <idno type="EEBO-CITATION">60827547</idno>
+            <idno type="OCLC">ocm 60827547</idno>
+            <idno type="VID">182306</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182306)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>It is a noyse of terror, to heare the guns like thunder,</title>
+                  <author>Hammond, John, fl. 1642-1651.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hammond, dwelling in Holborne.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first line of text.</note>
+                  <note>Fragment of unidentified work: first part mutilated affecting title, text, and ill.</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Tunes: [...] warres againe: or, The Maying time.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad_fragment">
+                  <pb facs="tcp:182306:1" rendition="simple:additions"/>
+                  <!-- PDF PAGE 17 -->
+                  <head>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and, this preſent
+<gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> moſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>arkable Accidents and chiefe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> this Y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Nation: Being Collected
+<gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Gentleman and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>holler, who is the p<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>me
+<gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> as it is not unknovne to many thouſands.</head>
+                  <argument>
+                     <lg>
+                        <l>
+                           <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> and Sinne doth ſtill abound,</l>
+                        <l>
+                           <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> can at all be found:</l>
+                        <l>
+                           <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> faire <hi>England,</hi> call for Grace,</l>
+                        <l>
+                           <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ee in a minutes ſpace.</l>
+                     </lg>
+                  </argument>
+                  <opener>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> warres againe: </hi>Or,<hi> The Maying time,</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>iſe,</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>le,</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>s,</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>riends,</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>;</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> will ſpill,</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>;</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>es plaies<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ayes,</l>
+                  </lg>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad_fragment">
+                  <head>The <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <p>
+                     <figure/>
+                  </p>
+                  <lg>
+                     <l>IT is a noyſe of terror,</l>
+                     <l>to heare the Guns like thunder,</l>
+                     <l>and a like unjuſt,</l>
+                     <l>to maintaine luſt,</l>
+                     <l>and Pride by lawleſſe plunder,</l>
+                     <l>This trade hath long been uſed,</l>
+                     <l>to many a mans undoing,</l>
+                     <l>from this when Peace,</l>
+                     <l>doth us releaſe,</l>
+                     <l>our gratitude then ſhooing.</l>
+                  </lg>
+                  <p>Needs we muſt drink this good heal<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad_fragment">
+                  <pb facs="tcp:182306:1" rendition="simple:additions"/>
+                  <!-- PDF PAGE 17 -->
+                  <head>The ſecond part,</head>
+                  <opener>To the ſame Tune.</opener>
+                  <p>
+                     <figure/>
+                  </p>
+                  <lg>
+                     <head>Junes Predictions.</head>
+                     <l>THey from the <hi>Dane</hi> doe looke for ayd,</l>
+                     <l>Thinking to make <hi>England</hi> affrayd;</l>
+                     <l>Kings, Biſhops, &amp; Deans Lands are ſold,</l>
+                     <l>Yet ſtill we want Silver and Gold;</l>
+                     <l>For ſome there are that coyne kéeps back,</l>
+                     <l>Which makes the Souldier for to lack,</l>
+                     <l>For good, let none with ill requite,</l>
+                     <l>Some ſhew their téeth, 'tis fear'd they'le bite.</l>
+                  </lg>
+                  <lg>
+                     <head>Julies Predictions.</head>
+                     <l>Ses-fights in many parts will be,</l>
+                     <l>From which no Nation ſcarce is frée;</l>
+                     <l>New treacheries they doe abound,</l>
+                     <l>Which amongſt many will be found,</l>
+                     <l>And <hi>Jockey</hi> will be troubleſome,</l>
+                     <l>But we againe ſhall whip him home,</l>
+                     <l>Warre, with Sedition, and blood-ſhed,</l>
+                     <l>In many parts abroad is ſpread.</l>
+                  </lg>
+                  <lg>
+                     <head>Auguſts Predictions.</head>
+                     <l>The entrance of an Enemie,</l>
+                     <l>Amongſt us now abroad doth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ite,</l>
+                     <l>Of Government ſome makes a toy;</l>
+                     <l>And would our Nation quite deſtroy:</l>
+                     <l>Some in command doe things not right,</l>
+                     <l>Which will be quickly brought to light,</l>
+                     <l>Let <hi>Scot</hi> or Devill their wits try,</l>
+                     <l>Yet we ſhall have the Victory.</l>
+                  </lg>
+                  <lg>
+                     <head>Septembers Predictions.</head>
+                     <l>Now the Foundation it is laid</l>
+                     <l>Of <hi>Englands</hi> fréedome, as 'tis ſaid;</l>
+                     <l>
+                        <hi>Ireland</hi> and <hi>Scotland</hi> cry alack,</l>
+                     <l>For one or both will goe to wrake:</l>
+                     <l>Our Merchants ſhips may have ſome loſſe</l>
+                     <l>But they will their procéedings croſſe;</l>
+                     <l>The Citie will be out of ſquare,</l>
+                     <l>About an unthought of Lord Mayor.</l>
+                  </lg>
+                  <lg>
+                     <head>Octobers Predictions.</head>
+                     <l>For want of Money ſome doe cry,</l>
+                     <l>And I believe they both not lye;</l>
+                     <l>About Religion, our Divines</l>
+                     <l>In Vnitie and Love now joynes,</l>
+                     <l>The <hi>Iriſh</hi> Nobles and Gentry</l>
+                     <l>Their Bread begs in a ſtrange Country,</l>
+                     <l>A juſt reward doth light on them,</l>
+                     <l>For murthering our deare Country-men.</l>
+                  </lg>
+                  <lg>
+                     <head>Novembers Predictions.</head>
+                     <l>Now there's mutation in the Law,</l>
+                     <l>Or elſe ſome Iudges have a flaw,</l>
+                     <l>And there are ſome with anger ſwell,</l>
+                     <l>But we doe hope all will be well:</l>
+                     <l>And ſuch as ruined the Poore,</l>
+                     <l>They ſhall be lop't and grow no more;</l>
+                     <l>Great ſtormes will be at Sea and Land</l>
+                     <l>what God doth pleaſe, who can withſtand,</l>
+                  </lg>
+                  <lg>
+                     <head>Decembers Predictions.</head>
+                     <l>Complaints 'gainſt Publick Officers,</l>
+                     <l>The People now their Bills preferrs,</l>
+                     <l>Which ſtore of Treaſure up did lay,</l>
+                     <l>Againſt a wet and ſtormy day:</l>
+                     <l>And ſuch as did deſcention bréed,</l>
+                     <l>Due Iuſtice 'gainſt them ſhall procéed,</l>
+                     <l>And thus I doe conclude the Year,</l>
+                     <l>Send peace ſwéet Chriſt our ſaviour dear.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>London, Printed by, John Hammond, dwelling in Holborne.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
